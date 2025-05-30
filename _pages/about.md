@@ -73,6 +73,7 @@ International Conference on Machine Learning **(ICML) 2025**<br>
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 📚 Services
+- *2025* CVPR, IJCAI, ICCV Reviewer
 - *2024.09 - 2025.01* TA, Computer Vision and Image Processing, SEIEE, SJTU
 - *2024.02 - 2024.07* TA, Data Structure, SEIEE, SJTU
 

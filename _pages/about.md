@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a Master student at the [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Prof. Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at [BCMI Lab](https://bcmi.sjtu.edu.cn/index.html) at Center for Brain-like Computing and Machine Intelligence [(BCMI Lab)](https://bcmi.sjtu.edu.cn/member.html). Here is my [CV](./cv_limei.pdf).
+Hi! I am a Master student at the [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Prof. Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at Center for Brain-like Computing and Machine Intelligence [(BCMI Lab)](https://bcmi.sjtu.edu.cn/member.html). Here is my [CV](./cv_limei.pdf).
 
 My primary areas of research interest include continual learning, computer vision, federated continual learning, orientation estimation. I have published several papers at international conferences and journals with total Google Scholar citations <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
 
@@ -44,7 +44,7 @@ My primary areas of research interest include continual learning, computer visio
 
 **Mei Li**, Yuxiang Lu, Qinyan Dai, Suizhi Huang, Yue Ding, Hongtao Lu
 
-International Conference on Machine Learning **(ICML) 2026**<br>
+International Conference on Machine Learning **(ICML) 2025**<br>
 </div>
 </div>
 

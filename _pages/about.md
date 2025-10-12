@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a Master student at the [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Prof. Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at Center for Brain-like Computing and Machine Intelligence [(BCMI Lab)](https://bcmi.sjtu.edu.cn/member.html). Here is my [CV](./cv_limei.pdf).
+Hi! I am a Master student at the [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Prof. Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at Center for Brain-like Computing and Machine Intelligence [(BCMI Lab)](https://bcmi.sjtu.edu.cn/member.html). I'm currently a visiting student at [TrustFUL Lab](https://trustful.federated-learning.org/), CCDS, Nanyang Technological University, supervised by [Prof. Han Yu](https://federated-learning.org/han.yu/). Here is my [CV](./cv_limei.pdf).
 
 My primary areas of research interest include continual learning, computer vision, federated continual learning, orientation estimation. I have published several papers at international conferences and journals with total Google Scholar citations <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
 
@@ -26,10 +26,13 @@ My primary areas of research interest include continual learning, computer visio
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 One paper accepted by **CIKM 2025**!
+- *2025.07*: &nbsp;🎉🎉 One paper accepted by **ACMMM Dataset Track 2025**!
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by **ICML 2025**!
 
 
 # 📖 Educations
+- *2025.08 - Now*    , **Visiting Student** at TrustFUL Lab, CCDS, Nanyang Technological University, Singapore 
 - *2023.09 - Now*    , **Master of Engineering** in Computer Science and Technology, Shanghai Jiao Tong University, China.
 - *2014.09 - 2018.07*, **Bachelor of Science** in Mathematics and Applied Mathematics, East Chine Normal University, China.
 
@@ -54,12 +57,22 @@ International Conference on Machine Learning **(ICML) 2025**<br>
 
   Computer Vision and Image Understanding **(CVIU) Major Revision**<br>
 
-- [NT-LLM: A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models](https://arxiv.org/abs/2410.10743)
+- [MORE: Multi-Organ medical image REconstruction](https://more-med.github.io/)
+
+  Shaokai Wu, Yapan Guo, Yanbiao Ji, Jing Tong, Yuxiang Lu, **Mei Li**, Suizhi Huang, Yue Ding, Hongtao Lu
+
+  ACM International Conference on Multimedia **(ACMMM Datasets) 2025**<br>
+
+- [From Anchors to Answers: A Novel Node Tokenizer for Integrating Graph Structure into Large
+Language Models](https://arxiv.org/abs/2410.10743)
 
   Yanbiao Ji, Chang Liu, Xin Chen, Yue Ding, Dan Luo, **Mei Li**, Wenqing Lin, Hongtao Lu
 
+  Conference on Information and Knowledge Management **(CIKM) 2025**<br>
+
 
 # 🎖 Honors and Awards
+- *2024-2025* National Scholarship of Graduate (top 2% national-wide)
 - *2023-2024* Merit Student of Shanghai Jiao Tong University. 
 - *2023* First-Class Master's Academic Scholarship
 - *2015-2017* Excellent Student Scholarship 

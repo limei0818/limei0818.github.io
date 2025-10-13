@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a Master student at the [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Prof. Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at Center for Brain-like Computing and Machine Intelligence [(BCMI Lab)](https://bcmi.sjtu.edu.cn/member.html). I'm currently a visiting student at [TrustFUL Lab](https://trustful.federated-learning.org/), CCDS, Nanyang Technological University, supervised by [Prof. Han Yu](https://federated-learning.org/han.yu/). Here is my [CV](./cv_limei.pdf).
+Hi! I am a Master student at the [School of Computer Science](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Prof. Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at the Institute of Artificial General Intelligence [(AGI Lab)](https://www.cs.sjtu.edu.cn/yjjg/813.html). I'm currently a visiting student at [TrustFUL Lab](https://trustful.federated-learning.org/), CCDS, Nanyang Technological University, supervised by [Prof. Han Yu](https://federated-learning.org/han.yu/). Here is my [CV](./cv_limei.pdf).
 
-My primary areas of research interest include continual learning, computer vision, federated continual learning, orientation estimation. I have published several papers at international conferences and journals with total Google Scholar citations <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
+My primary areas of research interest include continual learning, computer vision, federated continual learning and orientation estimation. I have published several papers at international conferences and journals with total Google Scholar citations <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -86,9 +86,9 @@ Language Models](https://arxiv.org/abs/2410.10743)
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 📚 Services
-- *2025* CVPR, IJCAI, ICCV Reviewer
-- *2024.09 - 2025.01* TA, Computer Vision and Image Processing, SEIEE, SJTU
-- *2024.02 - 2024.07* TA, Data Structure, SEIEE, SJTU
+- *2025* CVPR, IJCAI, ICCV, NeurIPS, TCSVT Reviewer
+- *2024.09 - 2025.01* TA, Computer Vision and Image Processing, SCS, SJTU
+- *2024.02 - 2024.07* TA, Data Structure, SCS, SJTU
 
 # 🔨 Skills
 - **Programming Languages**: Python, C/C++

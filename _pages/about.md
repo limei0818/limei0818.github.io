@@ -70,6 +70,10 @@ Language Models](https://arxiv.org/abs/2410.10743)
 
   Conference on Information and Knowledge Management **(CIKM) 2025**<br>
 
+# 📝 Preprints
+
+- [A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System](https://arxiv.org/abs/2510.09721)
+  Jiale Guo$^{\ast}$, Suizhi Huang$^{\ast}$, **Mei Li**$^{\ast}$, Dong Huang, Xingsheng Chen, Regina Zhang, Zhijiang Guo, Han Yu, Siu-Ming Yiu, Christian Jensen, Pietro Lio, Kwok-Yan Lam
 
 # 🎖 Honors and Awards
 - *2024-2025* National Scholarship of Graduate (top 2% national-wide)

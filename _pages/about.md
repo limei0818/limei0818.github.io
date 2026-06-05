@@ -37,8 +37,8 @@ My primary areas of research interest include continual learning, computer visio
 
 
 # 📖 Educations
+- *2023.09 - 2026.03*    , **Master of Engineering** in Computer Science and Technology, Shanghai Jiao Tong University, China.
 - *2025.08 - 2025.12*    , **Visiting Student** at TrustFUL Lab, CCDS, Nanyang Technological University, Singapore 
-- *2023.09 - 2026.3*    , **Master of Engineering** in Computer Science and Technology, Shanghai Jiao Tong University, China.
 - *2014.09 - 2018.07*, **Bachelor of Science** in Mathematics and Applied Mathematics, East Chine Normal University, China.
 
 

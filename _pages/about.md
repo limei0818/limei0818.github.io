@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a Master student at the [School of Computer Science](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Prof. Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at the Institute of Artificial General Intelligence [(AGI Lab)](https://www.cs.sjtu.edu.cn/yjjg/813.html). I'm currently a visiting student at [TrustFUL Lab](https://trustful.federated-learning.org/), CCDS, Nanyang Technological University, supervised by [Prof. Han Yu](https://federated-learning.org/han.yu/). Here is my [CV](./cv_limei.pdf).
+Hi! I completed my M.Eng. degree in Computer Science and Technology at the [School of Computer Science](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2026, supervised by [Prof. Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at the Institute of Artificial General Intelligence [(AGI Lab)](https://www.cs.sjtu.edu.cn/yjjg/813.html). I received the B.S. degree in Mathematics and Applied Mathematics from [East China Normal University](https://www.ecnu.edu.cn/) in 2018. Here is my [CV](./cv_limei.pdf).
+
+<!-- Hi! I am a Master student at the [School of Computer Science](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Prof. Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at the Institute of Artificial General Intelligence [(AGI Lab)](https://www.cs.sjtu.edu.cn/yjjg/813.html).  -->
+<!-- I a visiting student at [TrustFUL Lab](https://trustful.federated-learning.org/), CCDS, Nanyang Technological University, supervised by [Prof. Han Yu](https://federated-learning.org/han.yu/). -->
 
 My primary areas of research interest include continual learning, computer vision, federated continual learning and orientation estimation. I have published several papers at international conferences and journals with total Google Scholar citations <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
 
@@ -34,8 +37,8 @@ My primary areas of research interest include continual learning, computer visio
 
 
 # 📖 Educations
-- *2025.08 - Now*    , **Visiting Student** at TrustFUL Lab, CCDS, Nanyang Technological University, Singapore 
-- *2023.09 - Now*    , **Master of Engineering** in Computer Science and Technology, Shanghai Jiao Tong University, China.
+- *2025.08 - 2025.12*    , **Visiting Student** at TrustFUL Lab, CCDS, Nanyang Technological University, Singapore 
+- *2023.09 - 2026.3*    , **Master of Engineering** in Computer Science and Technology, Shanghai Jiao Tong University, China.
 - *2014.09 - 2018.07*, **Bachelor of Science** in Mathematics and Applied Mathematics, East Chine Normal University, China.
 
 
@@ -63,7 +66,7 @@ International Conference on Machine Learning **(ICML) 2025**<br>
 
   Suizhi Huang, **Mei Li**, Han Yu, Xiaoxiao Li
 
-  International Conference on Machine Learning. **(ICML) 2026**<br>
+  International Conference on Machine Learning **(ICML) 2026**<br>
 
 - [MORE: Multi-Organ medical image REconstruction](https://more-med.github.io/)
 
@@ -84,7 +87,7 @@ International Conference on Machine Learning **(ICML) 2025**<br>
   Jiale Guo$^{\ast}$, Suizhi Huang$^{\ast}$, **Mei Li**$^{\ast}$, Dong Huang, Xingsheng Chen, Regina Zhang, Zhijiang Guo, Han Yu, Siu-Ming Yiu, Christian Jensen, Pietro Lio, Kwok-Yan Lam<br>
 
 # 🎖 Honors and Awards
-- *2024-2025* National Scholarship of Graduate (top 2% national-wide)
+- *2024-2025* **National Scholarship of Graduate** (top 2% national-wide)
 - *2023-2024* Merit Student of Shanghai Jiao Tong University. 
 - *2023* First-Class Master's Academic Scholarship
 - *2015, 2016, 2017* Excellent Student Scholarship 

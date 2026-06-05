@@ -26,6 +26,8 @@ My primary areas of research interest include continual learning, computer visio
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper accepted by **ICML 2026**!
+- *2026.03*: &nbsp;🎉🎉 One paper accepted by **CVIU**!
 - *2025.08*: &nbsp;🎉🎉 One paper accepted by **CIKM 2025**!
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by **ACMMM Dataset Track 2025**!
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by **ICML 2025**!
@@ -43,7 +45,7 @@ My primary areas of research interest include continual learning, computer visio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/BECAME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[BECAME: BayEsian Continual Learning with Adaptive Model MErging](https://arxiv.org/abs/2504.02666)**
+**[BECAME: BayEsian Continual Learning with Adaptive Model MErging](https://proceedings.mlr.press/v267/li25bk.html)**
 
 **Mei Li**, Yuxiang Lu, Qinyan Dai, Suizhi Huang, Yue Ding, Hongtao Lu
 
@@ -51,11 +53,17 @@ International Conference on Machine Learning **(ICML) 2025**<br>
 </div>
 </div>
 
-- HACMatch: Semi-Supervised Rotation Regression with Hardness-Aware Curriculum Pseudo Labeling
+- [HACMatch: Semi-Supervised Rotation Regression with Hardness-Aware Curriculum Pseudo Labeling](https://www.sciencedirect.com/science/article/abs/pii/S1077314226001098?via%3Dihub)
 
   **Mei Li**, Huayi Zhou, Suizhi Huang, Yuxiang Lu, Yue Ding, Hongtao Lu
 
-  Computer Vision and Image Understanding **(CVIU) Major Revision**<br>
+  Computer Vision and Image Understanding **(CVIU)**<br>
+
+- [TextResNet: Decoupling and Routing Optimization Signals in Compound AI Systems via Deep Residual Tuning](https://arxiv.org/abs/2602.08306)
+
+  Suizhi Huang, **Mei Li**, Han Yu, Xiaoxiao Li
+
+  International Conference on Machine Learning. **(ICML) 2026**<br>
 
 - [MORE: Multi-Organ medical image REconstruction](https://more-med.github.io/)
 
@@ -63,8 +71,7 @@ International Conference on Machine Learning **(ICML) 2025**<br>
 
   ACM International Conference on Multimedia **(ACMMM Datasets) 2025**<br>
 
-- [From Anchors to Answers: A Novel Node Tokenizer for Integrating Graph Structure into Large
-Language Models](https://arxiv.org/abs/2410.10743)
+- [From Anchors to Answers: A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models](https://arxiv.org/abs/2410.10743)
 
   Yanbiao Ji, Chang Liu, Xin Chen, Yue Ding, Dan Luo, **Mei Li**, Wenqing Lin, Hongtao Lu
 
@@ -80,7 +87,7 @@ Language Models](https://arxiv.org/abs/2410.10743)
 - *2024-2025* National Scholarship of Graduate (top 2% national-wide)
 - *2023-2024* Merit Student of Shanghai Jiao Tong University. 
 - *2023* First-Class Master's Academic Scholarship
-- *2015-2017* Excellent Student Scholarship 
+- *2015, 2016, 2017* Excellent Student Scholarship 
 
 
 <!-- # 💬 Invited Talks
@@ -92,13 +99,13 @@ Language Models](https://arxiv.org/abs/2410.10743)
 
 # 📚 Services
 - *2025* CVPR, IJCAI, ICCV, NeurIPS, TCSVT Reviewer
-- *2024.09 - 2025.01* TA, Computer Vision and Image Processing, SCS, SJTU
+- *2024.09 - 2025.01, 2025.09 - 2026.01* TA, Computer Vision and Image Processing, SCS, SJTU
 - *2024.02 - 2024.07* TA, Data Structure, SCS, SJTU
 
 # 🔨 Skills
 - **Programming Languages**: Python, C/C++
 - **Platform**: Linux, Windows
 - **Development**: PyTorch, OpenCV, Git, CUDA
-- **English Proficiency**: CET-6 531
+- **English Proficiency**: IELTS Acdemic 7.0 / 9.0; GRE 327（Verbal 157, Quantitative 170）+ 4.0（Writing）
 <!-- - **French Proficiency**: DELF B2 -->
 - **Document Writing**: LaTeX, Markdown 
